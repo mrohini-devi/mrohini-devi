@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Rohini 👋
+Computer Science Graduate passionate about Data Analytics and Software Development.
 
-<!--
-**mrohini-devi/mrohini-devi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Technical Skills
+Python | Java | C | SQL | PHP | Power BI | Excel | HTML | DBMS
 
-Here are some ideas to get you started:
+🔹 Projects
+📌 Event Management and Collaboration Tool – Web Application
+📌 People Management Dashboard – Power BI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Interests
+Data Analytics | Dashboard Development | Web Development
+
+ 🔹 Connect with Me
+🔗 LinkedIn: linkedin.com/in/rohini-1865-devi
+📧 Email: mrohini733@gmail.com
